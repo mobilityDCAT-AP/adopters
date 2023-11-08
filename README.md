@@ -19,3 +19,11 @@ This list is sorted in the order in which portals were added to it.
 | Portal Name | Contact | Status | Portal Link | Metadata Access Documentation |
 | ------------ | ------- | ------ | ------------------ | ------------------ |
 | My Data Portal | [@marioscrock](https://github.com/marioscrock) | ![complete](https://img.shields.io/badge/-complete-blue?style=flat) | www.example.com/mobility-data-portal | www.example.com/mdp/metadata-documentation |
+
+## Mobility Data Spaces
+
+This list is sorted in the order in which data spaces were added to it.
+
+| Portal Name | Contact | Status | Portal Link | Metadata Access Documentation |
+| ------------ | ------- | ------ | ------------------ | ------------------ |
+| My Data Space | [@marioscrock](https://github.com/marioscrock) | ![complete](https://img.shields.io/badge/-ongoing-yellow?style=flat) | www.example.com/mobility-data-space | www.example.com/mds/metadata-documentation |
