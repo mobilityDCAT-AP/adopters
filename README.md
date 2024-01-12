@@ -17,18 +17,27 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 
 ## NAPs
 
-| NAP Name | Contact | Status | NAP Link | Metadata Access Documentation |
-| ------------ | ------- | ------ | ------------------ | ------------------ |
-| My NAP | [@marioscrock](https://github.com/marioscrock) | ![ongoing](https://img.shields.io/badge/-ongoing-yellow?style=flat) | www.example.com/nap | www.example.com/nap/metadata-documentation |
+| NAP Name | NAP Link | Contact | Status | Target Deployment Date |
+| :------------: | :------------------: | :------------------: | :------: | :------------------: |
+| NAP Latvia | [transportdata.gov.lv](www.transportdata.gov.lv)	 | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat) | Q1 2024 |
+| NAP Cyprus | [traffic4cyprus.org.cy](https://www.traffic4cyprus.org.cy/) | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)	| Q1 2024 |
+| NAP Austria	| [mobilitydata.gv.at](https://mobilitydata.gv.at) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q1 2024 |
+| NAP Sweden <br>(Trafficdata) | [trafficdata.se](https://trafficdata.se/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q1 2024 |
+| NAP Finland <br>(SRTI&RTTI)	| [digitraffic.fi](https://www.digitraffic.fi/en/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q2 2024 |
+| NAP Denmark <br>(Dataudveksleren) |	[du.vd.dk](https://du.vd.dk) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q2 2024  |
+| NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 |
+| NAP Czechia	| [dopravniinfo.cz](https://registr.dopravniinfo.cz/en/)	| [@burespe1](https://github.com/burespe1) | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | - |
+| NAP Germany	| [mobilithek.info](www.mobilithek.info)	| mobilithek@bast.de | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | Q4 2024 |
+| NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![interested](https://img.shields.io/badge/-interested-blue?style=flat)	| - |
 
 ## Mobility Data Portals
 
-| Portal Name | Contact | Status | Portal Link | Metadata Access Documentation |
-| ------------ | ------- | ------ | ------------------ | ------------------ |
-| My Data Portal | [@marioscrock](https://github.com/marioscrock) | ![complete](https://img.shields.io/badge/-complete-blue?style=flat) | www.example.com/mobility-data-portal | www.example.com/mdp/metadata-documentation |
+| Portal Name | Portal Link | Contact | Status | Target Deployment Date |
+| :------------: | :------------------: | :------------------: | :------: | :------------------: |
+| TBA |  - | - | - | - |
 
 ## Mobility Data Spaces
 
-| Portal Name | Contact | Status | Portal Link | Metadata Access Documentation |
-| ------------ | ------- | ------ | ------------------ | ------------------ |
-| My Data Space | [@marioscrock](https://github.com/marioscrock) | ![complete](https://img.shields.io/badge/-ongoing-yellow?style=flat) | www.example.com/mobility-data-space | www.example.com/mds/metadata-documentation |
+| Portal Name | Portal Link | Contact | Status | Target Deployment Date |
+| :------------: | :------------------: | :------------------: | :------: | :------------------: |
+| TBA |  - | - | - | - |
