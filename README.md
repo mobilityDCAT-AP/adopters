@@ -9,6 +9,7 @@ The following information are specified:
 - Link to the NAP/mobility data portal/mobility data space
 - Contact info to reach out: GitHub profile, email or Twitter
 - Status of the implementation: ![interested](https://img.shields.io/badge/-interested-blue?style=flat), ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat), ![testing](https://img.shields.io/badge/-testing-yellow?style=flat), ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)
+- (If available) Target deployment date (e.g., Q1 2025)
 - (If available) Link to the documentation to access the mobilityDCAT-AP metadata (e.g., API documentation)
 
 <!-- If you are implementing [mobilityDCAT-AP](https://w3id.org/mobilitydcat-ap/releases/) read also our [guidelines](https://github.com/mobilityDCAT-AP/mobilityDCAT-AP/wiki). -->
