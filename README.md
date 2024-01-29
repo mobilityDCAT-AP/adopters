@@ -26,7 +26,7 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | NAP Sweden <br>(Trafficdata) | [trafficdata.se](https://trafficdata.se/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q1 2024 |
 | NAP Finland <br>(SRTI&RTTI)	| [digitraffic.fi](https://www.digitraffic.fi/en/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q2 2024 |
 | NAP Denmark <br>(Dataudveksleren) |	[du.vd.dk](https://du.vd.dk) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q2 2024  |
-| NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 |
+| NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q1 2025 |
 | NAP Czechia	| [dopravniinfo.cz](https://registr.dopravniinfo.cz/en/)	| petr.bures@tamtamresearch.com | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | - |
 | NAP Germany	| [mobilithek.info](www.mobilithek.info)	| mobilithek@bast.de | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | Q4 2024 |
 | NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![interested](https://img.shields.io/badge/-interested-blue?style=flat)	| - |
