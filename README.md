@@ -30,6 +30,7 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | NAP Czechia	| [dopravniinfo.cz](https://registr.dopravniinfo.cz/en/)	| petr.bures@tamtamresearch.com | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | - |
 | NAP Germany	| [mobilithek.info](www.mobilithek.info)	| mobilithek@bast.de | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | Q4 2024 |
 | NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![interested](https://img.shields.io/badge/-interested-blue?style=flat)	| - |
+| NAP The Netherlands | [toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl) | ed.ooms@ndw.nu | ![interested](https://img.shields.io/badge/-interested-blue?style=flat)	| Q1 2025 |
 
 ## Mobility Data Portals
 
