@@ -21,9 +21,9 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | NAP Name | NAP Link | Contact | Status | Target Deployment Date |
 | :------------: | :------------------: | :------------------: | :------: | :------------------: |
 | NAP Denmark <br>(Dataudveksleren) |	[du.vd.dk](https://du.vd.dk) | vd@vd.dk | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |	Q2 2024  |
-| NAP Latvia | [transportdata.gov.lv](www.transportdata.gov.lv)	 | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat) | Q4 2024 |
+| NAP Latvia | [transportdata.gov.lv](https://transportdata.gov.lv)	 | npp@lvceli.lv | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | Q4 2024 |
 | NAP Cyprus | [traffic4cyprus.org.cy](https://www.traffic4cyprus.org.cy/) | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)	| Q4 2024 |
-| NAP Austria	| [mobilitydata.gv.at](https://mobilitydata.gv.at) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 |
+| NAP Austria	| [mobilitydata.gv.at](https://mobilitydata.gv.at) | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat) |	Q4 2024 |
 | NAP Sweden <br>(Trafficdata) | [trafficdata.se](https://trafficdata.se/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 |
 | NAP Finland <br>(SRTI&RTTI)	| [digitraffic.fi](https://www.digitraffic.fi/en/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 |
 | NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![testing](https://img.shields.io/badge/-testing-yellow?style=flat) |	Q4 2024 |
