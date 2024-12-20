@@ -28,7 +28,7 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | NAP Finland <br>(SRTI&RTTI)	| [digitraffic.fi](https://www.digitraffic.fi/en/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 |
 | NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![testing](https://img.shields.io/badge/-testing-yellow?style=flat) |	Q4 2024 |
 | NAP The Netherlands | [toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl) | ed.ooms@ndw.nu | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)| Q1 2025 |
-| NAP Germany	| [mobilithek.info](www.mobilithek.info)	| mobilithek@bast.de | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)| Q4 2024 |
+| NAP Germany	| [mobilithek.info](www.mobilithek.info)	| mobilithek@bast.de | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)| Q4 2024 |
 | NAP Czechia	| [dopravniinfo.cz](https://registr.dopravniinfo.cz/en/)	| petr.bures@tamtamresearch.com | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | - |
 | NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![interested](https://img.shields.io/badge/-interested-blue?style=flat)	| - |
 
