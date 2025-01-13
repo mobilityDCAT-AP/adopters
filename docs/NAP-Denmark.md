@@ -1,7 +1,7 @@
 # NAP Latvia
 
 | NAP Name | NAP Link | Contact | Status |
-| :------------: | :------------------: | :------------------: | :------: | :------------------: | :------: |
+| :------------: | :------------------: | :------------------: | :------: |
 | NAP Denmark <br>(Dataudveksleren) |	[du.vd.dk](https://du.vd.dk) | vd@vd.dk | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |
 
 ## Access metadata
