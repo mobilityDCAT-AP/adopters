@@ -18,19 +18,19 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 
 ## NAPs
 
-| NAP Name | NAP Link | Contact | Status | Target Deployment Date |
-| :------------: | :------------------: | :------------------: | :------: | :------------------: |
-| NAP Denmark <br>(Dataudveksleren) |	[du.vd.dk](https://du.vd.dk) | vd@vd.dk | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |	Q2 2024  |
-| NAP Latvia | [transportdata.gov.lv](https://transportdata.gov.lv)	 | npp@lvceli.lv | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | Q4 2024 |
-| NAP Germany	| [mobilithek.info](https://www.mobilithek.info)	| mobilithek@bast.de | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)| Q4 2024 |
-| NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |	Q4 2024 |
-| NAP Cyprus | [traffic4cyprus.org.cy](https://www.traffic4cyprus.org.cy/) | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)	| Q4 2024 |
-| NAP Austria	| [mobilitydata.gv.at](https://mobilitydata.gv.at) | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat) |	Q4 2024 |
-| NAP Sweden <br>(Trafficdata) | [trafficdata.se](https://trafficdata.se/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 |
-| NAP Finland <br>(SRTI&RTTI)	| [digitraffic.fi](https://www.digitraffic.fi/en/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 |
-| NAP The Netherlands | [toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl) | ed.ooms@ndw.nu | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)| Q1 2025 |
-| NAP Czechia	| [dopravniinfo.cz](https://registr.dopravniinfo.cz/en/)	| petr.bures@tamtamresearch.com | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | - |
-| NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![interested](https://img.shields.io/badge/-interested-blue?style=flat)	| - |
+| NAP Name | NAP Link | Contact | Status | Target Deployment Date | Docs |
+| :------------: | :------------------: | :------------------: | :------: | :------------------: | :------: |
+| NAP Denmark <br>(Dataudveksleren) |	[du.vd.dk](https://du.vd.dk) | vd@vd.dk | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |	Q2 2024  | [Link](./docs/NAP-Denmark.md) |
+| NAP Latvia | [transportdata.gov.lv](https://transportdata.gov.lv)	 | npp@lvceli.lv | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | Q4 2024 | [Link](./docs/NAP-Latvia.md) |
+| NAP Germany	| [mobilithek.info](https://www.mobilithek.info)	| mobilithek@bast.de | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)| Q4 2024 | [Link](./docs/NAP-Germany.md) |
+| NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |	Q4 2024 | [Link](./docs/NAP-Belgium.md) |
+| NAP Cyprus | [traffic4cyprus.org.cy](https://www.traffic4cyprus.org.cy/) | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)	| Q4 2024 | - |
+| NAP Austria	| [mobilitydata.gv.at](https://mobilitydata.gv.at) | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat) |	Q4 2024 | - |
+| NAP Sweden <br>(Trafficdata) | [trafficdata.se](https://trafficdata.se/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 | - |
+| NAP Finland <br>(SRTI&RTTI)	| [digitraffic.fi](https://www.digitraffic.fi/en/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q4 2024 | - |
+| NAP The Netherlands | [toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl) | ed.ooms@ndw.nu | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)| Q1 2025 | - |
+| NAP Czechia	| [dopravniinfo.cz](https://registr.dopravniinfo.cz/en/)	| petr.bures@tamtamresearch.com | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | - | - |
+| NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![interested](https://img.shields.io/badge/-interested-blue?style=flat)	| - | - |
 
 ## Mobility Data Portals
 
