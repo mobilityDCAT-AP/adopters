@@ -1,7 +1,7 @@
 # NAP Belgium
 
 | NAP Name | NAP Link | Contact | Status |
-| :------------: | :------------------: | :------------------: | :------: | :------------------: | :------: |
+| :------------: | :------------------: | :------------------: | :------: |
 | NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |
 
 ## Access metadata

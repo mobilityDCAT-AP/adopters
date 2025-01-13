@@ -1,7 +1,7 @@
 # NAP Latvia
 
 | NAP Name | NAP Link | Contact | Status |
-| :------------: | :------------------: | :------------------: | :------: | :------------------: | :------: |
+| :------------: | :------------------: | :------------------: | :------: |
 | NAP Latvia | [transportdata.gov.lv](https://transportdata.gov.lv)	 | npp@lvceli.lv | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |
 
 ## Access metadata

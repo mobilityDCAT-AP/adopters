@@ -1,7 +1,7 @@
 # NAP Germany
 
 | NAP Name | NAP Link | Contact | Status |
-| :------------: | :------------------: | :------------------: | :------: | :------------------: | :------: |
+| :------------: | :------------------: | :------------------: | :------: |
 | NAP Germany	| [mobilithek.info](https://www.mobilithek.info)	| mobilithek@bast.de | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)|
 
 ## Access metadata

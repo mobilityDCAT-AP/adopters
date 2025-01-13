@@ -1,4 +1,4 @@
-# NAP Latvia
+# NAP Denmark
 
 | NAP Name | NAP Link | Contact | Status |
 | :------------: | :------------------: | :------------------: | :------: |
