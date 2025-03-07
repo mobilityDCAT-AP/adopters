@@ -7,8 +7,11 @@
 ## Access metadata
 
 By openining the page of a dataset with a ".xml" suffix, it is possible to download a representation of metadata in RDF/XML compliant with mobilityDCAT-AP.
+
 For example: 
+
 Page of dataset: [https://trafficdata.se/dataset/charging-points-for-electric-vehicles-nobil](https://trafficdata.se/dataset/charging-points-for-electric-vehicles-nobil)
+
 RDF/XML representation: [https://trafficdata.se/dataset/charging-points-for-electric-vehicles-nobil.xml](https://trafficdata.se/dataset/charging-points-for-electric-vehicles-nobil.xml)
 
 ## Harvest metadata
