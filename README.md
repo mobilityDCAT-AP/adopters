@@ -24,8 +24,8 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | NAP Latvia | [transportdata.gov.lv](https://transportdata.gov.lv)	 | npp@lvceli.lv | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Latvia.md) |
 | NAP Germany	| [mobilithek.info](https://www.mobilithek.info)	| mobilithek@bast.de | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)| [Link](./docs/NAP-Germany.md) |
 | NAP Belgium	| [transportdata.be](https://www.transportdata.be)	| contact@transportdata.be |	![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Belgium.md) |
-| NAP Austria	| [mobilitydata.gv.at](https://mobilitydata.gv.at) | - | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Austria.md) |
-| NAP Sweden <br>(Trafficdata) | [trafficdata.se](https://trafficdata.se/) | - | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Sweden.md) |
+| NAP Austria	| [mobilitydata.gv.at](https://mobilitydata.gv.at) | [contact form](https://mobilitydata.gv.at/en/contact) | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Austria.md) |
+| NAP Sweden <br>(Trafficdata) | [trafficdata.se](https://trafficdata.se/) | supportinfo@trafficdata.se | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Sweden.md) |
 | NAP Cyprus | [traffic4cyprus.org.cy](https://www.traffic4cyprus.org.cy/) | - | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)	| Q1 2025 |
 | NAP The Netherlands | [toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl) | ed.ooms@ndw.nu | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)| Q1 2025 |
 | NAP Finland <br>(SRTI&RTTI)	| [digitraffic.fi](https://www.digitraffic.fi/en/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat) |	Q1 2025 |
