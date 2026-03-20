@@ -36,7 +36,7 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 
 | Portal Name | Portal Link | Contact | Status | Docs |
 | :------------: | :------------------: | :------------------: | :------: | :------------------: |
-| Mobility Data Space | https://mobility-dataspace.eu/ | [-](https://mobility-dataspace.eu/contact) | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | - |
+| Mobility Data Space (MDS) | https://mobility-dataspace.eu/ | [contact form](https://mobility-dataspace.eu/contact) | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | - |
 
 ## Mobility Data Portals
 
