@@ -32,14 +32,16 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat)	| - |
 | NAP Czechia	| [dopravniinfo.cz](https://registr.dopravniinfo.cz/en/)	| petr.bures@tamtamresearch.com | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | - |
 
+## Mobility Data Spaces
+
+| Portal Name | Portal Link | Contact | Status | Docs |
+| :------------: | :------------------: | :------------------: | :------: | :------------------: |
+| Mobility Data Space | https://mobility-dataspace.eu/ | [-](https://mobility-dataspace.eu/contact) | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | - |
+
 ## Mobility Data Portals
 
 | Portal Name | Portal Link | Contact | Status | Target Deployment Date |
 | :------------: | :------------------: | :------------------: | :------: | :------------------: |
 | TBA |  - | - | - | - |
 
-## Mobility Data Spaces
 
-| Portal Name | Portal Link | Contact | Status | Target Deployment Date |
-| :------------: | :------------------: | :------------------: | :------: | :------------------: |
-| TBA |  - | - | - | - |
