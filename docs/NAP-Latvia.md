@@ -10,4 +10,4 @@ By openining the page of a dataset, it is possible to download a representation 
 
 ## Harvest metadata
 
-Documentation not available.
+An [API](https://www.transportdata.gov.lv/api/v1/subscriber/metadata_dcat) is available. 
