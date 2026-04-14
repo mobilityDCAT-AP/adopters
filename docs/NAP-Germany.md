@@ -6,7 +6,7 @@
 
 ## Access metadata
 
-By openining the page of a dataset, it is possible to manually download a representation of metadata in JSON-LD,Turtle, and RDF/XML compliant with mobilityDCAT-AP and other metadata specidications.
+By openining the page of a dataset, it is possible to manually download a representation of metadata in JSON-LD,Turtle, and RDF/XML compliant with mobilityDCAT-AP and other metadata specifications.
 
 
 ## Harvest metadata
