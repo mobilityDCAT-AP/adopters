@@ -27,7 +27,7 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | NAP Austria	| [mobilitydata.gv.at](https://mobilitydata.gv.at) | [contact form](https://mobilitydata.gv.at/en/contact) | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Austria.md) |
 | NAP Sweden <br>(Trafficdata) | [trafficdata.se](https://trafficdata.se/) | supportinfo@trafficdata.se | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Sweden.md) |
 | NAP Finland <br>(SRTI&RTTI) |	[catalog.digitraffic.fi](https://catalog.digitraffic.fi/) | nap@fintraffic.fi | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Finland.md) |
-| NAP The Netherlands | [toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl) | ed.ooms@ndw.nu | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)| Q1 2026 |
+| NAP The Netherlands | [toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl) | ed.ooms@ndw.nu | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | - |
 | NAP Cyprus | [traffic4cyprus.org.cy](https://www.traffic4cyprus.org.cy/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat)	| 2026 |
 | NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat)	| - |
 | NAP Hungary | [napportal.kozut.hu](https://napportal.kozut.hu/) | info@kozut.hu | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat)	| 2027 |
