@@ -30,6 +30,7 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | NAP The Netherlands | [toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl) | ed.ooms@ndw.nu | ![testing](https://img.shields.io/badge/-testing-yellow?style=flat)| Q1 2026 |
 | NAP Cyprus | [traffic4cyprus.org.cy](https://www.traffic4cyprus.org.cy/) | - | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat)	| Q1 2026 |
 | NAP Norway <br>(Transportportal)	| [transportportal.no](https://transportportal.no)	| kontakt@transportportal.no	| ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat)	| - |
+| NAP Hungary | [napportal.kozut.hu](https://napportal.kozut.hu/) | info@kozut.hu | ![preparation](https://img.shields.io/badge/-preparation-orange?style=flat)	| 2027 |
 | NAP Czechia	| [dopravniinfo.cz](https://registr.dopravniinfo.cz/en/)	| petr.bures@tamtamresearch.com | ![interested](https://img.shields.io/badge/-interested-blue?style=flat) | - |
 
 ## Mobility Data Spaces
