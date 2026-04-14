@@ -41,9 +41,9 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 
 ## Mobility Data Portals
 
-| Portal Name | Portal Link | Contact | Status | Target Deployment Date |
+| Portal Name | Portal Link | Contact | Status | Docs |
 | :------------: | :------------------: | :------------------: | :------: | :------------------: |
-| MOBIDROM Datenplattform | [mobilitaetsdaten.nrw/](https://www.mobilitaetsdaten.nrw/) | datenplattform@mobidrom.nrw | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)  | [Link](./docs/MOBIDROM.md) |
+| MOBIDROM Datenplattform | [mobilitaetsdaten.nrw/](https://www.mobilitaetsdaten.nrw) | datenplattform@mobidrom.nrw | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)  | [Link](./docs/MOBIDROM.md) |
 
 
 
