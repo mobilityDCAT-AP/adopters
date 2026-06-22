@@ -18,7 +18,7 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 
 ## NAPs
 
-| NAP Name | NAP Link | Contact | Status | Access Docs |
+| NAP Name | NAP Link | Contact | Status | Doc / Timeline |
 | :------------: | :------------------: | :------------------: | :------: | :------------------: |
 | NAP Denmark <br>(Dataudveksleren) |	[du.vd.dk](https://du.vd.dk) | vd@vd.dk | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) |	[Link](./docs/NAP-Denmark.md) |
 | NAP Latvia | [transportdata.gov.lv](https://transportdata.gov.lv)	 | npp@lvceli.lv | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat) | [Link](./docs/NAP-Latvia.md) |
