@@ -44,6 +44,7 @@ The lists are ordered by _Status_ and then by the chronological order of additio
 | Portal Name | Portal Link | Contact | Status | Docs |
 | :------------: | :------------------: | :------------------: | :------: | :------------------: |
 | MOBIDROM Datenplattform | [mobilitaetsdaten.nrw/](https://www.mobilitaetsdaten.nrw) | datenplattform@mobidrom.nrw | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)  | [Link](./docs/MOBIDROM.md) |
+| MMTIS The Netherlands | [mmtis.nl](https://mmtis.nl) | loket@opengeo.nl | ![deployed](https://img.shields.io/badge/-deployed-green?style=flat)  | [Link](./docs/MMTIS_NL.md) |
 
 
 
