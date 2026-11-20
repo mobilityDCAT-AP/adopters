@@ -13,3 +13,5 @@ Note: While the NAP supports mobilityDCAT-AP, most of the entries follow [DCAT-A
 ## Harvest metadata
 
 All metadata from the NAP can be harvested as an RDF/XML file, or via an API, [as described here](https://data.norge.no/en/datasets/766d57bf-6b45-347e-80fe-ddbb47f663f0/dataset-descriptions-in-transportportalno).
+
+Note: The export contains all datasets from Norway's national data portal which are tagged with [Transport in EU's Data Theme](https://op.europa.eu/en/web/eu-vocabularies/concept/-/resource?uri=http://publications.europa.eu/resource/authority/data-theme/TRAN), or [Traffic and transport in Norway's Los vocabulary](https://psi.norge.no/los/tema/trafikk-og-transport.html), and it contains metadata in both DCAT-AP-NO and mobilityDCAT-AP. See the documentation linked above for information on how to filter the results.
